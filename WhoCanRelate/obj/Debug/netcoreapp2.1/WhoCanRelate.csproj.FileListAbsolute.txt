@@ -96,3 +96,4 @@ C:\MyWorkSpace\whocanrelate\WhoCanRelate\obj\Debug\netcoreapp2.1\WhoCanRelate.pd
 C:\MyWorkSpace\whocanrelate\WhoCanRelate\obj\Debug\netcoreapp2.1\WhoCanRelate.csproj.CopyComplete
 C:\MyWorkSpace\whocanrelate\WhoCanRelate\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\GitWorkSpace\whocanrelate\WhoCanRelate\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\GitWorkSpace\whocanrelate\WhoCanRelate\obj\Debug\netcoreapp2.1\Razor\Views\Home\WritePost.g.cshtml.cs

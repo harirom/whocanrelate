@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace WhoCanRelate
+namespace WhoCanRelate.Models
 {
     public partial class BlogContent
     {

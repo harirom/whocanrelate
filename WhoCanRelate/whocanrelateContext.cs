@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using WhoCanRelate.Models;
 
 namespace WhoCanRelate
 {
@@ -13,6 +14,7 @@ namespace WhoCanRelate
         public whocanrelateContext(DbContextOptions<whocanrelateContext> options)
             : base(options)
         {
+
         }
 
         public virtual DbSet<BlogContent> BlogContent { get; set; }
