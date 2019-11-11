@@ -29,10 +29,11 @@ namespace WhoCanRelate.Controllers
             return View();
         }
 
-        public IActionResult WritePost()
+        
+       /* public IActionResult WritePost()
         {
             return View();
-        }
+        } */
 
         public IActionResult Privacy()
         {

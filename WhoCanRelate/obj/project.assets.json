@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitWorkSpace\\whocanrelate\\WhoCanRelate\\WhoCanRelate.csproj",
+      "projectUniqueName": "C:\\WorkSpace1\\whocanrelate\\WhoCanRelate\\WhoCanRelate.csproj",
       "projectName": "WhoCanRelate",
-      "projectPath": "C:\\GitWorkSpace\\whocanrelate\\WhoCanRelate\\WhoCanRelate.csproj",
+      "projectPath": "C:\\WorkSpace1\\whocanrelate\\WhoCanRelate\\WhoCanRelate.csproj",
       "packagesPath": "C:\\Users\\hari13372\\.nuget\\packages\\",
-      "outputPath": "C:\\GitWorkSpace\\whocanrelate\\WhoCanRelate\\obj\\",
+      "outputPath": "C:\\WorkSpace1\\whocanrelate\\WhoCanRelate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
